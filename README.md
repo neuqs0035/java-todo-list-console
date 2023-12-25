@@ -16,7 +16,7 @@ Before running the script, ensure you have the following installed:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/bhavya416/java-todo-list-console.git
+   git clone https://github.com/neuqs0035/java-todo-list-console.git
    cd java-todo-list-console
    ```
 2. **Compile Java File**
